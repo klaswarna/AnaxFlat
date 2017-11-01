@@ -5508,7 +5508,7 @@ if ($verbose) {
 <html lang=en>
 <meta charset=utf-8>
 <title>CImage verbose output</title>
-<style>body{background-color: #ddd}</style>
+<style>body{background-color: #DFD98D}</style>
 <a href=$url1><code>$url1</code></a><br>
 <img src='{$url1}' />
 <pre id="json"></pre>

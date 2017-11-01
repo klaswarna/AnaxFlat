@@ -1,9 +1,4 @@
-Footer bla bla bla
+Denna webbsida har skapats med ramverktyget *Anax Flat* som bas.
 
-* Bla1
-* Bla2
-* Bla3
-
-
-
-Kalle-Ko
+Webbsidan används i utbildningssyfte
+ i dbwebb-kursen *design* som ges på [Blekinge Tekniska Högskola](https://www.bth.se/)
