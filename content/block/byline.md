@@ -1,4 +1,4 @@
-<div style="border: 1px solid black; overflow: auto; text-align: center; padding: 0.5em;" markdown=1>
+<div style="border: 1px solid black; overflow: auto; text-align: center; padding: 0.5em; clear: both; width: 80%;" markdown=1>
 
 <img src="img/bild.jpg" style="float: right; width: 80px;" >
 

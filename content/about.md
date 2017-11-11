@@ -5,6 +5,6 @@ Denna sida är en del av ett projekt i [dbwebb-kursen design](http://dbwebb.se/d
 
 Källkoden för ramverket finns tillgänglig här [canax/anax-flat](git@github.com:canax/anax-flat.git).
 
-Koden för denna specifika webbplats finns även tillgänglig på [GitHub](https://github.com/klaswarna/AnaxFlat).
+Koden för denna specifika webbplats finns även tillgänglig på [GitHub](https://github.com/klaswarna/AnaxFlat). För själva temat [här](https://github.com/klaswarna/anax-flat-theme).
 
 ![Bra design är tidlös](img/TI-500.jpg "Bra design är tidlös. Texas Instruments watch modell 500")
