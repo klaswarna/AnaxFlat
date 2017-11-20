@@ -32,6 +32,19 @@ return [
                 "url"   => $this->di->get("url")->create("test"),
                 "title" => t("Testsida")
             ],
+
+            "Vertikalt grid" => [
+                "text"  => t("Vertikalt grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Vertikalt grid")
+            ],
+
+            "Typografi" => [
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typografi")
+            ],
+
         ],
     ],
 
