@@ -1,5 +1,5 @@
-<div class="byline" markdown=1>
-<img src="img/bild.jpg" style="float: right;" >
+<div class="byline" markdown=1 style="clear: both;">
+<img src="img/bild.jpg" style="float: right; height: 100px;" >
 Klas bor i Lund och studerar programmering på distans vid [Blekinge Tekniska Högskola](https://www.bth.se/). Är för tillfället tjänstledig från sin tjänst på [Polhemskolan](https://www.lund.se/polhemskolan/) i Lund.
 
 

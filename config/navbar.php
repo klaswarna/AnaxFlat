@@ -45,6 +45,19 @@ return [
                 "title" => t("Typografi")
             ],
 
+            "Färganalys" => [
+                "text"  => t("Färganalys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Färganalys")
+            ],
+
+            "Färgteman" => [
+                "text"  => t("Färgteman"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Färgteman")
+            ],
+
+
         ],
     ],
 
@@ -79,6 +92,30 @@ return [
                 "text"  => t("Testsida"),
                 "url"   => $this->di->get("url")->create("test"),
                 "title" => t("Testsida")
+            ],
+
+            "Vertikalt grid" => [
+                "text"  => t("Vertikalt grid"),
+                "url"   => $this->di->get("url")->create("test"),
+                "title" => t("Vertikalt grid")
+            ],
+
+            "Typografi" => [
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typografi")
+            ],
+
+            "Färganalys" => [
+                "text"  => t("Färganalys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Färganalys")
+            ],
+
+            "Färgteman" => [
+                "text"  => t("Färgteman"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Färgteman")
             ],
 
 
