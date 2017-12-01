@@ -45,10 +45,10 @@ return [
                 "title" => t("Typografi")
             ],
 
-            "Färganalys" => [
-                "text"  => t("Färganalys"),
+            "Analyser" => [
+                "text"  => t("Analyser"),
                 "url"   => $this->di->get("url")->create("analysis"),
-                "title" => t("Färganalys")
+                "title" => t("Analyser")
             ],
 
             "Färgteman" => [
@@ -57,6 +57,17 @@ return [
                 "title" => t("Färgteman")
             ],
 
+            "Blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg")
+            ],
+
+            "Bildtester" => [
+                "text"  => t("Bildtester"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Bildtester")
+            ],
 
         ],
     ],
@@ -106,10 +117,10 @@ return [
                 "title" => t("Typografi")
             ],
 
-            "Färganalys" => [
-                "text"  => t("Färganalys"),
+            "Analyser" => [
+                "text"  => t("Analyser"),
                 "url"   => $this->di->get("url")->create("analysis"),
-                "title" => t("Färganalys")
+                "title" => t("Analyser")
             ],
 
             "Färgteman" => [
@@ -118,6 +129,17 @@ return [
                 "title" => t("Färgteman")
             ],
 
+            "Blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg")
+            ],
+
+            "Bildtester" => [
+                "text"  => t("Bildtester"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Bildtester")
+            ],
 
         ],
     ],
