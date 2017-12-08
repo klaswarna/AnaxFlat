@@ -103,5 +103,53 @@ return [
             "class"      => "fun",
             "stylesheets" => []
         ],
+
+        "chains"       => [
+            "title"      => "Black and White with Chains as Background",
+            "class"      => "chains",
+            "stylesheets" => [
+                "css/chains.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+            ],
+
+            "gradients"       => [
+                "title"      => "Bakgrundsfärger med gradients i flera av sidans regioner",
+                "class"      => "gradients",
+                "stylesheets" => [
+                    "css/gradients.min.css",
+                    "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+                ]
+            ],
+
+            "linjer"       => [
+                "title"      => "Linjer och texturer",
+                "class"      => "linjer",
+                "stylesheets" => [
+                    "css/linjer.min.css",
+                    "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+                ]
+            ],
+
+        "design-priciples 1" => [
+            "title"      => "Harmoni, perspektiv, enhetlighet m.m.",
+            "class"      => "design-priciples 1",
+            "stylesheets" => [
+                "css/design-elements1.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+
+        "design-priciples 2" => [
+            "title"      => "Balans och kontrast",
+            "class"      => "design-priciples 2",
+            "stylesheets" => [
+                "css/design-elements2.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+    ],
+
+
     ]
 ];
