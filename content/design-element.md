@@ -2,7 +2,7 @@
 Teman med olika designelement
 ===============================
 
-Här kommer du till [temaväljaren](/design/me/anax-flat/htdocs/theme-selector)
+Här kommer du till [temaväljaren](../htdocs/theme-selector)
 
 
 ###Chains

@@ -25,9 +25,9 @@ return [
             //"stylesheets" => ["css/default.min.css"],
             //"stylesheets" => ["css/style.min.css"],
             "stylesheets" => [
-    "css/color.min.css",
-    "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
-],
+                "css/color.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ],
 
 
             "styleInline" => null,

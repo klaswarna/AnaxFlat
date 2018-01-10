@@ -1,7 +1,7 @@
 Teman med olika designprinciper
 ===============================
 
-Här kommer du till [temaväljaren](/design/me/anax-flat/htdocs/theme-selector)
+Här kommer du till [temaväljaren](../htdocs/theme-selector)
 
 
 Där har jag givit de olika exemplen med designprinciper följande namn:

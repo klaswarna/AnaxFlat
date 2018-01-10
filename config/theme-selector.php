@@ -131,24 +131,24 @@ return [
                 ]
             ],
 
-        "design-priciples 1" => [
+            "design-priciples 1" => [
             "title"      => "Harmoni, perspektiv, enhetlighet m.m.",
             "class"      => "design-priciples 1",
             "stylesheets" => [
                 "css/design-elements1.min.css",
                 "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
             ]
-        ],
+            ],
 
 
-        "design-priciples 2" => [
+            "design-priciples 2" => [
             "title"      => "Balans och kontrast",
             "class"      => "design-priciples 2",
             "stylesheets" => [
                 "css/design-elements2.min.css",
                 "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
             ]
-    ],
+            ],
 
 
     ]
